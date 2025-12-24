@@ -9,6 +9,5 @@ I have hands-on experience developing full production systems including **e-comm
 Currently focused on building reliable products, improving performance, and writing maintainable, production-ready code.
 
 **Tech:** Django, DRF, React, Redux, PostgreSQL, Docker, REST APIs  
-**Projects:** YesBuy E-Commerce, Poopoli Ticketing System
 
 Let’s build something solid.
